@@ -1,0 +1,20 @@
+.list-wrapper
+{
+    margin-top: 50px;
+}
+.input-danger{
+    border: 3px solid red;
+    color: red;
+}
+.input-info-danger
+{
+    color: red;
+    font-size: 12px;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+.list-group{
+    overflow-y: scroll;
+    max-height: 400px;
+}
